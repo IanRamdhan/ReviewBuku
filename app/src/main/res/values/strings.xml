@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Review Buku</string>
+    <string-array name="detail_buku">
+        <item>
+            Buku yang sangat bermanfaat untuk mempelajari pembuatan aplikasi Android yang menyimpan data dalam bentuk database. Buku ini mengupas materi-materi menarik, yang dibahas langkah demi langkah sehingga memudahkan bagi siapa saja untuk mempraktikkannya.
+\n\n
+Dasar-dasar pemrograman Web diberikan pada buku ini, dari HTML, CSS, JavaScript, jQuery hingga PHP. Selain itu, dasar pengaksesan database MySQL melalui phpMyAdmin dan juga melalui skrip PHP ikut dijelaskan. Contoh aplikasi Android untuk mengelola data inventori laboratorium dan juga aplikasi Internet of Things untuk mengontrol sejumlah lampu disertakan pada buku ini.
+        </item>
+        <item>Ada beberapa cara untuk membuat aplikasi Android. Developer Android biasanya menggunakan Android Studio, software standar dari Google. Lengkap, tetapi cukup sulit digunakan terutama oleh para pemula. Untungnya, ada banyak alternatif yang lebih mudah. Salah satunya adalah Thunkable, aplikasi pemrograman Android online yang lebih sederhana dan mudah digunakan.
+\n\n
+Buku ini membahas cara mudah membuat aplikasi pembelajaran berbasis Android. Cocok bagi para pemula dengan pengalaman minim dalam pengembangan Android. Pembahasan diikuti dengan latihan sehingga Anda bisa langsung melihat hasil praktisnya. Penjelasan disertai dengan banyak gambar agar lebih mudah dimengerti.
+\n\n
+Di bagian akhir diberikan dua proyek lengkap cara membuat aplikasi pembelajaran. Proyek ini merupakan gabungan dari latihan-latihan yang telah dijelaskan sebelumnya.
+</item>
+        <item>Mengapa pemrograman Android sangat menarik bagi Anda? Tentu banyak alasan sehingga Anda tertarik dengan buku ini. Yang pasti Anda juga memiliki peranti berbasis Android, entah itu smartphone atau tablet dan lainnya yang sehari-hari tidak lepas dari tangan Anda.
+            \n\n
+            Dan tentunya Anda juga tertarik untuk menciptakan aplikasi yang bisa dimainkan di dalam Android tersebut. Jika Anda tertarik dengan pemrograman Android, maka buku “Pemrograman Android dalam Sehari” ini sangat tepat bagi Anda.
+            \n\n
+            Penyajian materi yang sederhana, tahap demi tahap sehingga mudah diikuti. Buku ini membahas dari nol, apa itu pemrograman di Android. Dari mulai menyiapkan eclipse, menyiapkan android SDK, emulator, dan memprogram menggunakan Java ataupun menggunakan platform web untuk membungkus javascript dan html 5 menjadi android apps. Materi yang dibahas selengkapnya adalah: - Persiapan pemrograman Android - Instalasi software pemrograman, Emulator, dan Android SDK - Pemrograman Android dengan Java - Pemrograman Android dengan HTML dan JavaScript</item>
+        <item>Membuat aplikasi Android itu sulit? Dengan menggunakan buku ini, Anda akan mendapat jawaban, “Tidak lagi”. Buku ini akan membantu Anda untuk mewujudkannya. Dengan menggunakan App Inventor 2 Ultimate, aplikasi Android dapat dibuat oleh siapa saja dengan mudah dan cepat. Disamping itu, koneksi ke internet tidak diperlukan pada waktu membuat aplikasi, mengingat aplikasi disimpan pada komputer lokal.
+\n\n
+Banyak sekali contoh yang diberikan di buku ini, yang akan membuat siapa saja dapat melakukan berbagai eksperimen menarik. Semua contoh dibahas langkah per langkah sehingga mudah untuk dipelajari dan dipraktikkan.</item>
+        <item>Sekarang ini membuat aplikasi Android tidak harus menguasai Java. Kita dapat dengan mudah membuat aplikasi Android dengan menggunakan bahasa pemrograman web, yaitu HTML, Javascript, dan CSS. Salah satu framework yang paling terkenal dan banyak digunakan untuk membuat aplikasi Android dengan bahasa pemrograman web adalah Ionic. Ionic berkolaborasi dengan Cordova sehingga memungkinkan aplikasi yang dibuat dapat mengakses fitur Native seperti kamera, kontak, geolocation, dan sebagainya.
+\n\n
+Pembahasan dalam buku ini dimulai dari dasar Typescript, Angular, dan Ionic. Selanjutnya dibahas berbagai komponen Ionic, setting Ionic untuk Android, hingga penggunaan native Ionic. Dibahas juga penyimpanan data pada Ionic termasuk integrasi Ionic dengan PHP dan MySQLi disertai dengan contoh operasi CRUD. Pada bagian akhir dibahas langkah demi langkah membuat aplikasi berbagi foto ala Instagram.
+\n\n
+Pembahasan selengkapnya mencakup:
+\n\n
+- Dasar-dasar Typescript
+\n\n
+- Dasar-dasar Angular
+\n\n
+- Dasar-dasar Ionic
+\n\n
+- Komponen Ionic
+\n\n
+- Setting Platform Android
+\n\n
+- Plugin Native Ionic
+\n\n
+- Integrasi Ionic dengan PHP dan MySQLi
+\n\n
+- Tips dan Trik Ionic
+\n\n
+- Membuat aplikasi berbagi foto ala Instagram
+\n\n\n\n\n\n
+
+
+Keterampilan: Pemula, Menengah
+\n\n
+Kelompok: Pemrograman
+\n\n
+Jenis buku: Referensi, Tutorial</item>
+        <item>Sebagian besar gadget sekarang menggunakan sistem operasi Android, mulai dari smartphone, tablet, dan piranti lainnya. Akibatnya, kebutuhan akan aplikasi berbasis Android semakin meningkat. Ini adalah peluang bagi Anda yang ingin mencoba mengembangkan aplikasi berbasis Android dan mendapatkan manfaat dari hal tersebut.
+\n\n\n\n
+
+
+Buku ini akan menjadi dasar yang bagus bagi siapa saja yang ingin memulai belajar membuat aplikasi Android berbasis web. Walaupun belum mengerti tentang pemrograman, Anda tidak perlu khawatir. Buku ini memandu Anda langkah demi langkah secara rinci sampai Anda menghasilkan aplikasi yang bisa dijalankan di perangkat Android.
+\n\n\n\n
+
+
+Selengkapnya, materi yang akan dibahas meliputi:
+\n\n
+* HTML 5.
+\n\n
+* Jquery Mobile
+\n\n
+* PhoneGap
+\n\n
+* Sencha Touch</item>
+        <item>Pasar pengguna Android semakin luas dan jumlah aplikasi yang dijajakan lewat Google Play kian bertambah dari hari ke hari. Memang, pemrograman Android itu tidak mudah, tetapi dengan mempelajari dasar-dasar pemrograman Android terlebih dulu, perlahan namun pasti Anda bisa menulis kode-kode pemrograman untuk membuat sebuah aplikasi.
+\n\n
+Buku ini mengupas pemrograman Android dari nol, mulai dari instalasi Java, Eclipse, hingga menulis baris-baris pemrograman yang singkat namun jelas. Tujuannya untuk membantu Anda memahami bagaimana cara menulis kode-kode di balik aplikasi Android. Diharapkan, Anda akan mengenal konsep dasar pembuatan aplikasi Android setelah membaca buku ini.</item>
+        <item>Get thoroughly up to speed on Android programming, and learn how to create up-to-date user experiences for both handsets and tablets. With this book's extensively revised second edition, you'll focus on Android tools and programming essentials, including best practices for using Android 4 APIs. If you're experienced with Java or Objective-C, you'll gain the knowledge necessary for building well-engineered applications.
+</item>
+    </string-array>
+</resources>
